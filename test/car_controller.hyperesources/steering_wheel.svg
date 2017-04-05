@@ -1,0 +1,30 @@
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In  -->
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="479.5px" height="469.9px" viewBox="0 0 479.5 469.9" style="enable-background:new 0 0 479.5 469.9;"
+	 xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F05161;}
+	.st1{fill:#58595B;}
+	.st2{fill:#231F20;}
+	.st3{fill:#E3DEDF;}
+</style>
+<defs>
+</defs>
+<g>
+	<rect x="196.2" y="264.7" class="st0" width="87" height="179.8"/>
+	<rect x="31" y="160.2" class="st1" width="417.4" height="149.4"/>
+	<circle class="st2" cx="239.7" cy="234.9" r="95"/>
+	<circle class="st3" cx="239.7" cy="234.9" r="58.4"/>
+	<circle class="st0" cx="239.7" cy="234.9" r="38.9"/>
+	<path class="st2" d="M239.7,0C110,0,4.8,105.2,4.8,234.9c0,129.8,105.2,234.9,234.9,234.9c129.8,0,234.9-105.2,234.9-234.9
+		C474.7,105.2,369.5,0,239.7,0z M239.7,428.2c-106.7,0-193.2-86.5-193.2-193.2c0-106.7,86.5-193.2,193.2-193.2
+		s193.2,86.5,193.2,193.2C432.9,341.6,346.4,428.2,239.7,428.2z"/>
+	<g>
+		<path class="st0" d="M53.8,234.9c0-49.6,19.5-94.6,51.1-128L66.9,68.9C25.5,112,0,170.5,0,234.9c0,90.6,50.3,169.5,124.5,210.2
+			l40.2-40.2C99.4,376.2,53.8,310.9,53.8,234.9z"/>
+		<path class="st0" d="M412.6,68.9L374.5,107c31.7,33.3,51.1,78.4,51.1,128c0,76-45.6,141.2-110.9,170.1l40.2,40.2
+			c74.2-40.8,124.5-119.6,124.5-210.2C479.5,170.5,454,112,412.6,68.9z"/>
+	</g>
+</g>
+</svg>
